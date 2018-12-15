@@ -1,0 +1,55 @@
+body{
+    background: rgb(3, 3, 3);
+    margin :auto;
+}
+
+
+
+#manu {width :1200;
+    height:50px;
+    background:rgb(4, 61, 184);
+    margin:auto;
+    
+     }
+    #manu  ul {width :900;
+    height:50px;
+    margin:auto;
+    
+     } 
+     
+     #manu ul li  {list-style:none;
+     float:left;
+     padding-right: 25px;
+     padding-left:25px;
+     text-align:center;
+     line-height:50px;
+     border-right:2px solid#ffffff;
+    
+     }
+     #manu ul li a{
+    color:red;
+    text-decoration:none;
+    font-size:25px;
+    font-weight:bold;
+    font-family:arial;
+                     }
+                     #manu ul li:hover {
+                     background:#ccc;
+                     }
+
+
+                     .slider{
+                         width:1200px;
+                         height:700px;
+                         margin:auto;
+                         background:url(image/pic.jpg);
+                         padding-top:2px;
+
+                         
+                     }
+                     .contant{
+                         width:1200px;
+                         height:600px;
+                         margin: auto;
+                         background: url(image/Untitled-1.png) 
+                     }

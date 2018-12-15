@@ -1,0 +1,94 @@
+body{background: rgb(183, 189, 97);
+    margin: auto;
+
+}
+.sat{
+    width:1000px;
+    height:200px;
+    background:rgb(53, 172, 202);
+    margin: auto;
+    padding: auto;
+}
+.sun{ width:1000px;
+    height:40px;
+    background:rgb(223, 205, 205);
+    margin: auto;
+    padding-top:10px;
+    text-align: center;
+    font-size: 25px; 
+}
+.mon{
+    width :1000px;
+    height:60px;
+    margin: auto;
+    background-color: rgb(27, 2, 44);
+}
+.thu{
+    width:1000px;
+    height:450px;
+    margin: auto;
+    background-color: rgb(233, 233, 233);
+
+}
+.tra{ width:1000px;
+    height: 150px;
+    margin:auto;
+    background:rgb(26, 130, 156);
+
+}
+.a{
+    background-color: blanchedalmond;
+    height:450px;
+    margin: auto;
+    width:300px;
+    float: left;
+    font-size: 17px;
+}
+.b{ background-color: rgb(148, 146, 146);
+    height:450px;
+    margin: auto;
+    width:400px;
+    float: left;
+}
+
+.c{ background-color: rgb(243, 242, 242);
+    height:450px;
+    margin: auto;
+    width:300px;
+    float: left;
+}
+#manu {width :1000;
+    height:50px;
+    background:black;
+    margin:auto;
+    
+     }
+    #manu  ul {width :900;
+    height:50px;
+    margin:auto;
+    
+     } 
+     
+     #manu ul li  {list-style:none;
+     float:left;
+     padding-right: 25px;
+     padding-left:25px;
+     text-align:center;
+     line-height:50px;
+     border-right:2px solid#ffffff;
+    
+     }
+     #manu ul li a{
+    color:red;
+    text-decoration:none;
+    font-size:25px;
+    font-weight:bold;
+    font-family:arial;
+                     }
+                     #manu ul li:hover {
+                     background:#ccc;
+                     }
+                     .benar{ width:1200;
+                     margin:auto;
+                     }
+                     
